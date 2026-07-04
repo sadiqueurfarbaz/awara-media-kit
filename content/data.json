@@ -1,23 +1,23 @@
 {
-  "name": "Samuel Gaikwad",
-  "handle": "@awara.hai · Digital Creator",
-  "email": "samuelgaikwad@gmail.com",
-  "whatsapp": "919999999999",
-  "instagram": "awara.hai",
   "photos": {
     "heroPhoto": "",
     "aboutPhoto": ""
   },
-  "stats": {
-    "followers": "12K",
-    "eng": "4.8%",
-    "reach": "1M",
-    "posts": "72"
-  },
+  "brandLogos": [],
   "audience": {
     "malePct": 68,
     "location": "Pune · Mumbai · Delhi · Bangalore"
   },
-  "brandLogos": [],
-  "gallery": []
+  "handle": "@awara.hai · Digital Creator",
+  "name": "Samuel Gaikwad",
+  "whatsapp": "919999999999",
+  "gallery": [],
+  "instagram": "awara.hai",
+  "email": "samuelgaikwad@gmail.com",
+  "stats": {
+    "followers": "12.5K",
+    "eng": "4.8%",
+    "reach": "1M",
+    "posts": "72"
+  }
 }
