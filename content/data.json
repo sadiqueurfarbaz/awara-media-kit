@@ -7,6 +7,26 @@
     {
       "name": "Steadfast Nutrition",
       "image": "/images/uploads/steadfast.avif"
+    },
+    {
+      "image": "/images/uploads/img_4120.png",
+      "name": "GNC"
+    },
+    {
+      "name": "Antigravity",
+      "image": "/images/uploads/img_4116.png"
+    },
+    {
+      "name": "Hosteller",
+      "image": "/images/uploads/img_4119.jpeg"
+    },
+    {
+      "name": "KSHM",
+      "image": "/images/uploads/img_4117.png"
+    },
+    {
+      "name": "Vitaminca",
+      "image": "/images/uploads/img_4118.png"
     }
   ],
   "audience": {
@@ -40,8 +60,8 @@
   "email": "samuelgaikwad@gmail.com",
   "stats": {
     "followers": "12.5K",
-    "eng": "4.8%",
-    "reach": "1M",
+    "eng": "46.8%",
+    "reach": "4M",
     "posts": "72"
   }
 }
