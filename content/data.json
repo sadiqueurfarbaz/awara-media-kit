@@ -3,7 +3,12 @@
     "heroPhoto": "/images/uploads/223538.jpg",
     "aboutPhoto": ""
   },
-  "brandLogos": [],
+  "brandLogos": [
+    {
+      "name": "Steadfast Nutrition",
+      "image": "/images/uploads/steadfast.avif"
+    }
+  ],
   "audience": {
     "malePct": 68,
     "location": "Pune · Mumbai · Delhi · Bangalore"
